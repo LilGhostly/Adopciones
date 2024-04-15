@@ -1,0 +1,39 @@
+h1,h2,h3{
+    text-align: center;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h2,h3{
+    font-size: 30px;
+}
+header{
+    text-align: center;
+    font-weight: 100;
+    padding-inline: 15%;
+}
+ul{
+    padding-left: 20%;
+    font-size: large;
+    font-weight: bold;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    margin-left: 18%;
+    
+}
+button{
+    width: 80px;
+    height: 50px;
+    margin-left: 10%;
+    margin-right: 65%;
+    
+}
+@media only screen and (max-width: 600px) {
+    .container {
+        margin: 10px;
+    }
+}
