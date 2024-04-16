@@ -44,6 +44,26 @@ header{
    
     
 }
+.perros{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-left: 34.5%;
+
+}
+.gatos{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-left: 27%;
+}
+.btn-Max{
+    margin-right: 10px;
+}
+.btn-Raul{
+    margin-right: 12px;
+
+}
 .vinculo{
     text-align: right;
 }
